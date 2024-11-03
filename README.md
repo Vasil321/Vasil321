@@ -1,5 +1,6 @@
-## Hi there 👋
+<h1 align=center> Hi, I am Vasil 👋</h1>
 
+<h1 align=center> Evolving from a desire to understand how apps and games operate to deep passion for data :bar_chart:, coding :man_technologist: and machine learning :computer:</h1>
 <!--
 **Vasil321/Vasil321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
